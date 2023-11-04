@@ -3,8 +3,11 @@
 whats up skiddies
 
 soup from skidsec here
+
 today i have brought you somthing that is truly amazing
+
 ive made some JS you can embed via XSS (cross site scripting) and cause a browser to crash
+
 works great in chatrooms withoug proper sanitization :) crashes everyone online
 
 why 2 files you might ask:
