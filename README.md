@@ -10,6 +10,7 @@ works great in chatrooms withoug proper sanitization :) crashes everyone online
 why 2 files you might ask:
 
 1st is for XSSing the raw ver in so
+
 2nd is for <script src =></script> tags just in case site allows some shit like photos to be xssed in but not script tags
 
 Have fun i guess :P 
