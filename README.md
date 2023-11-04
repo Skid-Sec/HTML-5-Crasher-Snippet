@@ -15,7 +15,14 @@ works great in chatrooms withoug proper sanitization :) crashes everyone online
 
 2nd is for <script src =></script> tags just in case site allows some shit like photos to be xssed in but not script tags
 
-# ----------------------------
+
+# Techincal Shit How does it work?
+
+Imagine this
+
+spamming your clipboard with the letter n literaly tens of housands of times a second
+from what ive seen the browser will not let you do that but will instead crash your webpage
+its a very very simple script i think even the most retareded of people could kinda understand
 
 Have fun i guess :P 
 
